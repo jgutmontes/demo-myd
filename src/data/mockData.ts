@@ -68,7 +68,7 @@ export const experts: Expert[] = [
   {
     id: '1',
     name: 'Lizzeth Miranda Díaz',
-    title: 'Especialista de postcosecha en arándanos y paltas. Gerente de Calidad',
+    title: 'Especialista de postcosecha en arándanos y paltas. Gerente de Calidadd',
     image: 'https://images.unsplash.com/photo-1498557850523-fd3d118b962e?w=400&h=300&fit=crop',
     specialization: 'Postcosecha'
   },
